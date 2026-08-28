@@ -1,0 +1,8 @@
+- [x] Add a dedicated Success Stories section between the consultation and testimonials areas.
+- [x] Build clearly labelled placeholder achievement and progress metric cards that do not present fabricated student outcomes.
+- [x] Confirm the new section is responsive and save a revised website checkpoint.
+- [x] Update core teaching copy for arithmetic shortcuts, mental-maths models and real-world confidence.
+- [x] Add Colchester as Mrs. Liping James’s location in appropriate visible copy and metadata.
+- [x] Validate the revised copy and save an updated website checkpoint.
+- [x] Verify the user’s hero-copy edits and remove the requested trust-item line.
+- [x] Validate the visual result and save a new website checkpoint.
